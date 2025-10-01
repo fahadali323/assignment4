@@ -2,7 +2,10 @@
 Provides the starting point for the application.
 Allows the user to add, subtract, multiply, and divide.
 It also has a feature to add history for the operation a user performs. 
-
+"""
+"""
+Fahad Ali
+IS601 - Assignment 4 
 """
 
 import sys
