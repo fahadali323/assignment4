@@ -122,6 +122,7 @@ class SubtractCalculation(Calculation):
         return Operation.subtraction(self.a, self.b)
 
 
+
 @CalculationFactory.register_calculation('multiply')
 class MultiplyCalculation(Calculation):
     """
